@@ -180,7 +180,7 @@ Orange box: Building→Road confusion (< 1 %).
 
 ### Scene-wise Predictions (Input · Ground Truth · Prediction)
 
-![Scene Predictions](hybissm_predictions.png)
+![Scene Predictions](prediction_map.png)
 
 ---
 
